@@ -2,6 +2,8 @@
 This project explores the underlying patterns and drivers of employee attrition within an organization, focusing on critical variables such as age, gender, department, job role, education level, business travel frequency, and years of service. The goal was to identify key risk areas and generate actionable insights to help HR teams develop targeted retention strategies.
 
 Using Microsoft Excel, the data underwent a thorough cleaning and preparation process including handling missing values, removing duplicates, correcting structural inconsistencies, and transforming data for effective visualization. An interactive Attrition Dashboard was created to uncover and communicate meaningful trends across employee demographics and job-related attributes.
+
+
 ![Attrition Dashboard](https://github.com/user-attachments/assets/5ef6e624-5ec3-4e1b-90e5-e3e5e7b98e6b)
 
 # Tools
