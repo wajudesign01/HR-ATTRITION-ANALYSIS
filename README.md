@@ -1,6 +1,7 @@
 # HR-ATTRITION-ANALYSIS
-This HR Attrition Analysis highlights major factors including performance, department, job roles, education, business travel, and years of service contributing to employee turnover. 
+This project explores the underlying patterns and drivers of employee attrition within an organization, focusing on critical variables such as age, gender, department, job role, education level, business travel frequency, and years of service. The goal was to identify key risk areas and generate actionable insights to help HR teams develop targeted retention strategies.
 
+Using Microsoft Excel, the data underwent a thorough cleaning and preparation process including handling missing values, removing duplicates, correcting structural inconsistencies, and transforming data for effective visualization. An interactive Attrition Dashboard was created to uncover and communicate meaningful trends across employee demographics and job-related attributes.
 ![Attrition Dashboard](https://github.com/user-attachments/assets/5ef6e624-5ec3-4e1b-90e5-e3e5e7b98e6b)
 
 # Tools
@@ -56,7 +57,7 @@ Employees in this category have the lowest attrition, likely because they are cl
 HR should focus on succession planning and knowledge transfer from these experienced employees to younger 
 
 # Conclusion
-The data shows that attrition is especially prevalent among mid-career professionals, employees in high-pressure roles, and those frequently on the move for business. These trends suggest an urgent need for strategic HR interventions—ranging from improved career development and incentive structures to more flexible and supportive work environments.
+The data shows that attrition is especially prevalent among mid-career professionals, employees in high-pressure roles, and those frequently on the move for business. These trends suggest an urgent need for strategic HR interventions ranging from improved career development and incentive structures to more flexible and supportive work environments.
 
 Addressing these challenges with targeted solutions such as mentorship programs, growth opportunities, and wellness support will not only help reduce attrition but also strengthen overall workforce stability. With these insights, HR teams can proactively shape a culture that retains talent, drives engagement, and builds long-term organizational success.
 
